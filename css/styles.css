@@ -252,6 +252,9 @@ img {
 
     .testimonials__card {
         padding: 0 1.5rem;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
     }
 
     .testimonials__card:nth-child(3) {
